@@ -1,1 +1,0 @@
--This is a simple script tracking the object using CV2 library known as Tracker
